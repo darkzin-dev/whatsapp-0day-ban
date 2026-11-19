@@ -139,7 +139,7 @@ Still unconfirmed:
 
 Reported to Meta; reported as fixed in newer WhatsApp Web/Desktop versions. Older versions may remain affected. Exact affected/fixed versions haven't been independently verified.
 
-[Read the PoC Technical Analysis](Poc Technical Analysis.md)
+[Read the PoC Technical Analysis](<Poc Technical Analysis.md>)
 
 ## Credits
 
